@@ -1,9 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ALBERT ASSIDIQ — GitHub Profile
-     Design Direction: Dark Editorial Minimalism × Tech Brutalism
+     Design: Dark Editorial Minimalism
      ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
 
 <div align="center">
 
@@ -219,44 +217,35 @@ HTML · CSS · Excel Data Pipeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=albertassidiq&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&hide_title=true&show=reviews,prs_merged&rank_icon=percentile" height="180"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertassidiq&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide_title=true" height="180"/>
+<!-- Streak Stats (working) -->
+<img src="https://streak-stats.demolab.com?user=albertassidiq&theme=transparent&hide_border=true&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albertassidiq&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
+<!-- Activity Graph (working) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=00000000&color=58a6ff&line=3fb950&point=58a6ff&area_color=161b22&area=true&hide_border=true&custom_title=" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area_color=161b22&area=true&hide_border=true&custom_title=" width="95%"/>
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=albertassidiq&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 
-</div>
+<br/><br/>
 
-<br/>
-
----
-
-<br/>
-
-## `05` — POWERED BY
+<!-- Profile Summary Cards (alternative to github-readme-stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=github_dark" width="95%" />
 
 <br/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=github_dark" width="47%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=github_dark" width="47%" />
 
-```bash
-# Install CLI globally
-npm install -g uipro-cli
+<br/>
 
-# Go to your project
-cd /path/to/your/project
-
-# Initialize with Antigravity AI
-uipro init --ai antigravity
-```
-
-<sub>This profile was designed and built using <b>Antigravity</b> — an AI coding assistant by Google DeepMind.</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=github_dark" width="47%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=github_dark&utcOffset=7" width="47%" />
 
 </div>
 
@@ -267,10 +256,6 @@ uipro init --ai antigravity
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=albertassidiq&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=albertassidiq&style=flat-square&color=161b22&label=views" />
 
@@ -283,5 +268,3 @@ uipro init --ai antigravity
 </sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%" />
