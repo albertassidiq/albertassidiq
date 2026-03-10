@@ -1,302 +1,287 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ALBERT ASSIDIQ — GitHub Profile
+     Design Direction: Dark Editorial Minimalism × Tech Brutalism
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Albert%20Assidiq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Statistician%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16&descColor=8b949e" width="100%" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+tools+that+automate+the+boring;Turning+data+into+actionable+insights" alt="Typing SVG" /></a>
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║            A L B E R T   A S S I D I Q            ║
+║                                                   ║
+║     Statistician  ·  Full-Stack Dev  ·  AI Dev    ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-albertassidiq-181717?style=for-the-badge&logo=github)](https://github.com/albertassidiq)
+<a href="https://github.com/albertassidiq"><img src="https://img.shields.io/badge/→_albertassidiq-0d1117?style=flat-square&logo=github&logoColor=58a6ff" height="28"/></a>
+&nbsp;&nbsp;
+<a href="https://albertas.my.id"><img src="https://img.shields.io/badge/→_albertas.my.id-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff" height="28"/></a>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+> **Building tools that automate the boring and turn data into decisions.**  
+> Statistician by training. Developer by obsession. Currently at BPS Tanjungpinang, Indonesia.
 
-```yaml
-name: Albert Assidiq
-role: Statistician & Full-Stack Developer
-location: Tanjungpinang, Indonesia
-education: Statistics
-interests:
-  - AI / Generative AI
-  - Web Development
-  - Data Automation
-  - Process Optimization
-currently_building: Tools that bridge statistics and technology
-```
+<br/>
 
 ---
 
-## 🏗️ Featured Projects
+<br/>
+
+## `01` — FEATURED WORK
+
+> Private repositories — descriptions only. No public access.
+
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔒 IsiDoku
-**Generator SOP Otomatis berbasis AI**
+### <samp>🔒 IsiDoku</samp>
+**AI-Powered SOP Generator**
 
-Platform yang mengubah deskripsi teks menjadi diagram alur kerja standar industri menggunakan AI, lengkap dengan *smart routing* A* pathfinding dan ekspor PDF.
+Mengubah deskripsi teks menjadi diagram alur kerja standar industri. Smart routing menggunakan A* Pathfinding. Ekspor ke PDF. Automated changelog dari Git commits.
 
-`Next.js 15` `Turborepo` `TypeScript` `Supabase` `Clerk` `Drizzle ORM` `Google Gemini` `Tailwind CSS`
+```
+Next.js 15 · Turborepo · Supabase
+Clerk · Drizzle ORM · Google Gemini
+Tailwind CSS · TypeScript
+```
 
-**Key Features:**
-- 🤖 AI-powered SOP generation via chat
-- 🔀 Smart arrow routing (A* Pathfinding)
-- 📄 PDF export & file management
-- 🔐 Enterprise-level security with RLS
-- 🔄 Automated changelog from Git
+<sub>✦ AI Generator &nbsp;·&nbsp; ✦ Smart Arrow Routing &nbsp;·&nbsp; ✦ PDF Export &nbsp;·&nbsp; ✦ Enterprise RLS</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔒 SiLANANG
-**AI-Powered Chat Platform**
+### <samp>🔒 SiLANANG</samp>
+**AI Chat Platform — Self-Hosted**
 
-Platform chat AI yang di-deploy di VPS dengan arsitektur containerized, menggunakan Gemini untuk intelligent conversations.
+Platform chat AI yang di-deploy di VPS sendiri. Arsitektur containerized dengan full CI/CD pipeline. Digunakan di `chat.stat2172.com`.
 
-`TypeScript` `Docker` `Nginx` `Clerk Auth` `Google Gemini` `SQLite` `GitHub Actions`
+```
+TypeScript · Docker · Nginx
+Clerk Auth · Google Gemini · SQLite
+GitHub Actions · Shell Scripts
+```
 
-**Key Features:**
-- 💬 Real-time AI chat interface
-- 🐳 Containerized deployment (Docker)
-- 🔒 HTTPS with Let's Encrypt SSL
-- 🚀 CI/CD via GitHub Actions
-- 📊 Health monitoring & auto-backup
+<sub>✦ Real-time AI Chat &nbsp;·&nbsp; ✦ Docker Deploy &nbsp;·&nbsp; ✦ SSL/HTTPS &nbsp;·&nbsp; ✦ Auto-backup</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔒 Sister Squad
-**Habit Tracker untuk Komunitas Muslimah ASN**
+### <samp>🔒 Sister Squad</samp>
+**Habit Tracker — Komunitas Muslimah ASN**
 
-Aplikasi habit tracking untuk komunitas "ASNRunners SisterSquad" dengan fitur pelacakan ibadah harian, period tracking, leaderboard, dan sistem poin.
+Aplikasi habit tracking untuk komunitas ASNRunners SisterSquad. 9 daily tasks (ibadah + olahraga), period tracking, leaderboard, dan penalty system.
 
-`Next.js 14` `TypeScript` `Shadcn UI` `Framer Motion` `Drizzle ORM` `Tailwind CSS`
+```
+Next.js 14 · TypeScript · Shadcn UI
+Framer Motion · Drizzle ORM
+Tailwind CSS · Vercel
+```
 
-**Key Features:**
-- ✅ 9 daily tasks checklist (ibadah & olahraga)
-- 📅 Calendar view & monthly statistics
-- 👥 Multi-user rekap & leaderboard
-- 🌸 Period tracking integration
-- ⚡ Penalty points system
+<sub>✦ 9 Daily Tasks &nbsp;·&nbsp; ✦ Calendar View &nbsp;·&nbsp; ✦ Period Tracking &nbsp;·&nbsp; ✦ Leaderboard</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔒 eGuide Bazar
-**Digital Bazaar Guide Platform**
+### <samp>🔒 eGuide Bazar</samp>
+**Digital Bazaar Guide**
 
-Panduan digital interaktif untuk event bazar dengan katalog produk, peta lokasi, dan fitur pencarian, dibangun dengan arsitektur modern full-stack.
+Panduan digital interaktif untuk event bazar. Katalog produk lengkap dengan data management, pencarian, dan responsive mobile-first UI.
 
-`Python` `JavaScript` `Vite.js` `HTML/CSS`
+```
+Python · JavaScript · Vite.js
+HTML · CSS · Excel Data Pipeline
+```
 
-**Key Features:**
-- 🛍️ Interactive product catalog
-- 🗺️ Digital venue mapping
-- 🔍 Smart search & filtering
-- 📱 Responsive mobile-first design
-- 📊 Data-driven item management
+<sub>✦ Product Catalog &nbsp;·&nbsp; ✦ Smart Search &nbsp;·&nbsp; ✦ Data Pipeline &nbsp;·&nbsp; ✦ Mobile-First</sub>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🌐 Public Projects
+<br/>
+
+## `02` — OPEN SOURCE
+
+<br/>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td>
 
-### 🤖 [SEHATI](https://github.com/albertassidiq/SEHATI) ⭐
-Chatbot AI pencegahan stunting & gizi anak sekolah menggunakan Generative AI
+**[SEHATI](https://github.com/albertassidiq/SEHATI)** ⭐ — Chatbot AI pencegahan stunting & gizi anak menggunakan Generative AI `Python` `MIT`
 
-`Python` `AI` `MIT License`
+</td></tr>
+<tr><td>
 
-</td>
-<td width="50%" valign="top">
+**[bluestackscan](https://github.com/albertassidiq/bluestackscan)** — Otomasi penandaan usaha Ground Check pada MatchaPro BPS dengan OCR `Python` `Automation` `OCR`
 
-### 🔧 [bluestackscan](https://github.com/albertassidiq/bluestackscan)
-Otomasi penandaan usaha Ground Check pada MatchaPro BPS menggunakan OCR
+</td></tr>
+<tr><td>
 
-`Python` `Automation` `BlueStacks` `OCR`
+**[matchapro-gc-automation](https://github.com/albertassidiq/matchapro-gc-automation-playwright)** — Browser automation Ground Check workflow `Python` `Playwright`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td>
 
-### 🎭 [matchapro-gc-automation](https://github.com/albertassidiq/matchapro-gc-automation-playwright)
-Browser automation untuk workflow Ground Check dengan Playwright
+**[susenas26](https://github.com/albertassidiq/susenas26)** — Dashboard interaktif data survey SUSENAS → [Live](https://susenas26dsrt.vercel.app) `HTML`
 
-`Python` `Playwright` `Automation`
+</td></tr>
+<tr><td>
 
-</td>
-<td width="50%" valign="top">
+**[isidoku-demo](https://github.com/albertassidiq/isidoku-demo)** — Demo publik IsiDoku → [Live](https://isidoku-demo.vercel.app) `TypeScript` `Next.js`
 
-### 📊 [susenas26](https://github.com/albertassidiq/susenas26) — [🔗 Live](https://susenas26dsrt.vercel.app)
-Dashboard interaktif untuk data survey SUSENAS
+</td></tr>
+<tr><td>
 
-`HTML` `CSS` `JavaScript`
+**[SEkoPInang](https://github.com/albertassidiq/SEkoPInang)** — Sistem informasi berbasis Laravel `Laravel` `PHP`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td>
 
-### 📋 [isidoku-demo](https://github.com/albertassidiq/isidoku-demo) — [🔗 Live](https://isidoku-demo.vercel.app)
-Demo publik dari platform IsiDoku
+**[TautPinang](https://github.com/albertassidiq/TautPinang)** — Aplikasi web Tanjungpinang `Laravel` `PHP`
 
-`TypeScript` `Next.js`
+</td></tr>
+<tr><td>
 
-</td>
-<td width="50%" valign="top">
+**[demoVisKinerja](https://github.com/albertassidiq/demoVisKinerja)** — Visualisasi data kinerja interaktif `HTML` `JavaScript`
 
-### 🏛️ [SEkoPInang](https://github.com/albertassidiq/SEkoPInang)
-Aplikasi SEkoPInang — sistem informasi berbasis Laravel
-
-`Laravel` `Blade` `PHP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ [TautPinang](https://github.com/albertassidiq/TautPinang)
-Aplikasi web berbasis Laravel untuk Tanjungpinang
-
-`Laravel` `Blade` `PHP`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [demoVisKinerja](https://github.com/albertassidiq/demoVisKinerja)
-Visualisasi data kinerja interaktif
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary><kbd>MORE REPOS →</kbd></summary>
 <br/>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [kinetic](https://github.com/albertassidiq/kinetic) | AI project | TypeScript |
-| [dashboard_combined.py](https://github.com/albertassidiq/dashboard_combined.py) | Combined dashboard script | Python |
-| [autoaccsnlik](https://github.com/albertassidiq/autoaccsnlik) | Automation SNLIK account | Python |
-| [KIPZAI-old](https://github.com/albertassidiq/KIPZAI-old) | AI assistant (legacy) | Python |
-| [PortofolioReact](https://github.com/albertassidiq/PortofolioReact) | Portfolio website (React) | TypeScript |
-| [Portofolio](https://github.com/albertassidiq/Portofolio) | Portfolio website (HTML) | HTML |
-| [logistok](https://github.com/albertassidiq/logistok) | Logistics tracking dashboard | HTML |
-| [yuki](https://github.com/albertassidiq/yuki) | Personal web project | HTML |
-| [link](https://github.com/albertassidiq/link) | Link aggregator page | HTML |
-| [perpuspinang](https://github.com/albertassidiq/perpuspinang) | Library management system | PHP |
-| [blog_application](https://github.com/albertassidiq/blog_application) | Blog application | Ruby |
+| Repo | Tech | Description |
+|:-----|:-----|:------------|
+| [kinetic](https://github.com/albertassidiq/kinetic) | TypeScript | AI project |
+| [dashboard_combined.py](https://github.com/albertassidiq/dashboard_combined.py) | Python | Combined dashboard |
+| [autoaccsnlik](https://github.com/albertassidiq/autoaccsnlik) | Python | SNLIK automation |
+| [KIPZAI-old](https://github.com/albertassidiq/KIPZAI-old) | Python | AI assistant (legacy) |
+| [PortofolioReact](https://github.com/albertassidiq/PortofolioReact) | TypeScript | Portfolio (React) |
+| [Portofolio](https://github.com/albertassidiq/Portofolio) | HTML | Portfolio (HTML) |
+| [logistok](https://github.com/albertassidiq/logistok) | HTML | Logistics dashboard |
+| [yuki](https://github.com/albertassidiq/yuki) | HTML | Personal project |
+| [link](https://github.com/albertassidiq/link) | HTML | Link aggregator |
+| [perpuspinang](https://github.com/albertassidiq/perpuspinang) | PHP | Library system |
+| [blog_application](https://github.com/albertassidiq/blog_application) | Ruby | Blog app |
 
 </details>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Tools & Platforms**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-**AI & Data**
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-</div>
+<br/>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=albertassidiq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertassidiq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albertassidiq&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+## `03` — STACK
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+<div align="center">
+
+| Domain | Technologies |
+|:-------|:------------|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![GH Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) |
+| **AI** | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 
 </div>
+
+<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+<br/>
+
+## `04` — METRICS
+
+<br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=albertassidiq&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=albertassidiq&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&hide_title=true&show=reviews,prs_merged&rank_icon=percentile" height="180"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertassidiq&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide_title=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=albertassidiq&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area_color=161b22&area=true&hide_border=true&custom_title=" width="95%"/>
+
 </div>
+
+<br/>
 
 ---
 
+<br/>
+
+## `05` — POWERED BY
+
+<br/>
+
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albertassidiq/albertassidiq/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albertassidiq/albertassidiq/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/albertassidiq/albertassidiq/output/github-snake-dark.svg" />
-</picture>
+```bash
+# Install CLI globally
+npm install -g uipro-cli
 
-<br/><br/>
+# Go to your project
+cd /path/to/your/project
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=albertassidiq&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
+# Initialize with Antigravity AI
+uipro init --ai antigravity
+```
 
-<br/><br/>
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<sub>This profile was designed and built using <b>Antigravity</b> — an AI coding assistant by Google DeepMind.</sub>
 
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=albertassidiq&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=albertassidiq&style=flat-square&color=161b22&label=views" />
+
+<br/><br/>
+
+<sub>
+
+*"Measure twice, code once."*
+
+</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%" />
