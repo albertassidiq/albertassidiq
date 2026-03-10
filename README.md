@@ -125,37 +125,59 @@ Automates repetitive ground-check tagging workflows on BPS MatchaPro via emulato
 
 <br/>
 
-### ✦ SYSTEM METRICS
-
-<!-- Force standard images with appropriate themes. <picture> tags can conflict with certain markdown alignment engines breaking layout. Using transparent backgrounds heavily. -->
+### ✦ DATA & METRICS
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- Data Overview Card -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albertassidiq&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=albertassidiq&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=24292f" />
-  <img src="https://github-readme-stats.vercel.app/api?username=albertassidiq&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=24292f" height="150" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=github" width="95%" alt="Profile Details" />
+</picture>
+
+<br/><br/>
+
+<!-- Languages Charts -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=github" width="47%" alt="Repos per Language" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albertassidiq&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albertassidiq&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertassidiq&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&langs_count=6" height="150" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=github" width="47%" alt="Most Commit Language" />
 </picture>
 
 <br/><br/>
 
-<!-- Streak -->
+<!-- Commits and Stats Charts -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=albertassidiq&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=albertassidiq&theme=transparent&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=57606a&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertassidiq&theme=transparent&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=57606a&currStreakNum=24292f&sideNums=24292f&dates=57606a" alt="Streak Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=github" width="47%" alt="Stats Overview" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=github_dark&utcOffset=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=github&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=github&utcOffset=7" width="47%" alt="Productive Time" />
 </picture>
 
 <br/><br/>
 
-<!-- Contribution Snake -->
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=161b22&area=true&hide_border=true&custom_title=" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area_color=ddf4ff&area=true&hide_border=true&custom_title=" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area_color=ddf4ff&area=true&hide_border=true&custom_title=" width="95%" alt="Activity Graph" />
+</picture>
+
+<br/><br/>
+
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albertassidiq/albertassidiq/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albertassidiq/albertassidiq/output/github-snake.svg" />
