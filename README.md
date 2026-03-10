@@ -1,6 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ALBERT ASSIDIQ — GitHub Profile
-     Design: Dark Editorial Minimalism
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -217,35 +216,60 @@ HTML · CSS · Excel Data Pipeline
 
 <div align="center">
 
-<!-- Streak Stats (working) -->
-<img src="https://streak-stats.demolab.com?user=albertassidiq&theme=transparent&hide_border=true&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d" alt="Streak Stats" />
+<!-- Profile Details — auto adapts to GitHub theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=default" width="95%" alt="Profile Details" />
+</picture>
 
 <br/><br/>
 
-<!-- Activity Graph (working) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=00000000&color=58a6ff&line=3fb950&point=58a6ff&area_color=161b22&area=true&hide_border=true&custom_title=" width="95%"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=albertassidiq&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
-<br/><br/>
-
-<!-- Profile Summary Cards (alternative to github-readme-stats) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertassidiq&theme=github_dark" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=github_dark" width="47%" />
+<!-- Language Cards — auto adapts -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertassidiq&theme=default" width="47%" alt="Repos per Language" />
+</picture>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=github_dark" width="47%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertassidiq&theme=default" width="47%" alt="Most Commit Language" />
+</picture>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=github_dark" width="47%" />
+<!-- Stats & Productive Time — auto adapts -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertassidiq&theme=default" width="47%" alt="Stats" />
+</picture>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=github_dark&utcOffset=7" width="47%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=github_dark&utcOffset=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=default&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertassidiq&theme=default&utcOffset=7" width="47%" alt="Productive Time" />
+</picture>
+
+<br/><br/>
+
+<!-- Streak Stats — auto adapts -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=albertassidiq&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=albertassidiq&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=albertassidiq&theme=default&hide_border=true" alt="Streak Stats" />
+</picture>
+
+<br/><br/>
+
+<!-- Activity Graph — auto adapts -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area_color=161b22&area=true&hide_border=true&custom_title=" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area_color=ddf4ff&area=true&hide_border=true&custom_title=" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albertassidiq&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area_color=ddf4ff&area=true&hide_border=true&custom_title=" width="95%" alt="Activity Graph" />
+</picture>
 
 </div>
 
